@@ -1,0 +1,72 @@
+.contenedor_g {
+  background-color: #110033;
+  font-family: Roboto, Helvetica, sans-serif;
+  text-align: center;
+  width: 100vw;
+  height: 100%;
+}
+
+.parrafo_h2 {
+  color: white;
+  text-align: left;
+  margin-left: 18%;
+  font-size: 30px;
+}
+
+.camara {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  margin-left: 12%;
+  text-align: center;
+  background-color: #ffdc35;
+  color: #110033;
+  border: 2px solid black;
+}
+.subir {
+  padding-top: 5%;
+  padding-left: 3%;
+  padding-right: 3%;
+  font-size: 20px;
+  background: white;
+  border: 3px solid #f7cb15;
+}
+.icono_subir {
+  width: 10%;
+  height: 5%;
+  margin-top: 10%;
+}
+.cont_form {
+  margin-bottom: 5%;
+}
+
+.contenedor input {
+  margin-bottom: 10px;
+  padding: 3%;
+  width: 70%;
+  font-size: 18px;
+}
+.btnContinuar {
+  background-color: #4dd599;
+  color: #110033;
+  text-align: center;
+  border: 1px solid #110033;
+}
+
+.msg-error {
+  display: flex;
+  margin-left: 11%;
+  font-size: 17px;
+  color: red;
+  font-family: Roboto, Helvetica, sans-serif;
+}
+
+i {
+  position: absolute;
+  top: 60%;
+  right: 17%;
+}
+i:hover {
+  color: #f51761;
+  cursor: pointer;
+}

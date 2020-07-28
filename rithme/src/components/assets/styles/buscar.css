@@ -1,0 +1,83 @@
+.contenedor {
+  background-color: #110033;
+  font-family: Roboto, Helvetica, sans-serif;
+  text-align: center;
+  width: 100vw;
+  margin-left: 0px;
+}
+
+.hidden {
+  display: none;
+}
+.logo_lupa {
+  width: 20px;
+  height: 20px;
+  margin-left: 2px;
+}
+.logo_flecha {
+  width: 30px;
+  height: 30px;
+}
+.container-4 {
+  overflow: hidden;
+  width: 300px;
+  vertical-align: middle;
+  white-space: nowrap;
+  margin-left: 13%;
+  margin-top: 10%;
+}
+
+.container-4 input#search {
+  width: 250px;
+  height: 50px;
+  background: #f4f4f4;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  color: black;
+  padding-left: 15px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.selector {
+  overflow: hidden;
+  width: 300px;
+  height: 40px;
+  vertical-align: middle;
+  white-space: nowrap;
+  margin-top: 0px;
+}
+.genres {
+  color: white;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 3%;
+}
+
+.updateButton1 {
+  margin-top: 5%;
+  background-color: #4dd599;
+  border: solid 1.5px #110033;
+  height: 60px;
+  width: 40%;
+  padding-bottom: 10%;
+  padding-left: 4%;
+  padding-top: 1%;
+  padding-bottom: 10px;
+  font-weight: bold;
+  border-radius: 75px 75px 75px 75px;
+}
+.updateButton:hover1 {
+  background-color: #01918e;
+}
+.select_city {
+  color: #828282;
+}
+.optionavanz {
+  height: 50px;
+  width: 50px;
+}

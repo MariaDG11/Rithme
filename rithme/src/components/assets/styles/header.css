@@ -1,0 +1,27 @@
+.contenedor_header {
+  position: sticky;
+  top: 0;
+  width: 100vw;
+  
+}
+
+.b-header {
+  background-color: rgb(255, 220, 53);
+  width: 100vw;
+  height: 69px;
+  font-family: Overpass-Light;
+  display: inline-flex;
+
+}
+.b-flecha {
+  position: absolute;
+  margin-top: 5%;
+}
+
+.text {
+  text-align: end;
+  font-size: 25px;
+  padding-top: 20px;
+  margin-left: 33%;
+  
+}
